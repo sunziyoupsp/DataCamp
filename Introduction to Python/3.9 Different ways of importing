@@ -1,0 +1,7 @@
+'''
+Q:
+Which import statement will you need in order to run the above code without an error?
+
+A:
+from scipy.linalg import inv as my_inv
+'''
